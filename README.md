@@ -1,10 +1,10 @@
-Simple responsive Instagram UI clone
+# Simple responsive Instagram UI clone
 
 to-do list:
 
-# Add more pages via React Router
+- Add more pages via React Router
 
-# Make it more like real counterpart
+- Make it more like real counterpart
 
 --------------------------------------------
 
